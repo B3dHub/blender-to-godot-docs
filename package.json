@@ -1,0 +1,19 @@
+{
+  "name": "blender-to-godot-docs",
+  "version": "1.0.0",
+  "description": "Export meshes, animations, collisions and components to Godot Engine.",
+  "main": "index.js",
+  "authors": {
+    "name": "Karan",
+    "email": ""
+  },
+  "repository": "https://github.com/b3dhub/blender-to-godot-docs",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.10"
+  }
+}
